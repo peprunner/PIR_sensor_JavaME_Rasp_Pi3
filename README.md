@@ -8,7 +8,7 @@ The led turns on when the PIR sensor detects a movement
 [You can check the SlideShare presentation here](https://www.slideshare.net/GiuseppeAndreetti/java-me-embedded-97215811)
 
 # Demo
-[You can check the Demo here](https://www.youtube.com/watch?v=n07cy0U435c&t=32s)
+[You can check the Demo here](https://www.youtube.com/watch?v=n07cy0U435c)
 
 # Project 
 
@@ -24,7 +24,7 @@ The led turns on when the PIR sensor detects a movement
 Java ME 8
 
 ## Architecture
-![alt text](https://preview.ibb.co/gjFrso/Schermata_2018_06_10_alle_01_12_32.png)
+![alt text](https://preview.ibb.co/if0o58/DSA.png)
 
 # Contacts
 + Linkedin: [Giuseppe Andreetti](https://www.linkedin.com/in/giuseppe-andreetti/)  
