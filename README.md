@@ -24,7 +24,7 @@ The led turns on when the PIR sensor detects a movement
 Java ME 8
 
 ## Architecture
-![alt text](https://preview.ibb.co/if0o58/DSA.png)
+<p align=center><a href="url"><img src="https://preview.ibb.co/if0o58/DSA.png" ></p>
 
 # Contacts
 + Linkedin: [Giuseppe Andreetti](https://www.linkedin.com/in/giuseppe-andreetti/)  
