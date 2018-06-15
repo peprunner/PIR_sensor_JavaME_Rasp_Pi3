@@ -29,6 +29,6 @@ Java ME 8
 # Contacts
 + Linkedin: [Giuseppe Andreetti](https://www.linkedin.com/in/giuseppe-andreetti/)  
 ##
-![Logo](https://preview.ibb.co/ebyZCo/logo_rosso_sapienza.png)
+<p align=center><a href="url"><img src="https://preview.ibb.co/ebyZCo/logo_rosso_sapienza.png" ></p>
 
 
