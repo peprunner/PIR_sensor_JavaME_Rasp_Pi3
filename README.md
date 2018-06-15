@@ -27,7 +27,7 @@ Java ME 8
 <p align=center><a href="url"><img src="https://preview.ibb.co/if0o58/DSA.png" ></p>
 
 # Contacts
-+ Linkedin: [Giuseppe Andreetti](https://www.linkedin.com/in/giuseppe-andreetti/)  
++ Linkedin: [Giuseppe Andreetti](https://www.linkedin.com/in/giuseppe-andreetti/) 
 ##
 <p align=center><a href="url"><img src="https://preview.ibb.co/ebyZCo/logo_rosso_sapienza.png" ></p>
 
